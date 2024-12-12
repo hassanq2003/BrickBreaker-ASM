@@ -1,0 +1,10 @@
+abcdef        2 440
+momo          2 325
+Maam          1 150
+Maam          2 140
+hh            3 110
+Maam          1 100
+ronaldo       2 090
+ronaldo       3 085
+jjj           3 060
+mam           1 050
